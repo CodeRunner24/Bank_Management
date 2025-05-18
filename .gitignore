@@ -1,0 +1,29 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+
+# Mac OS
+.DS_Store
+
+# Images
+*.png
+
+# Word documents
+*.docx
+~$*.docx
+
+# Markdown files (except README)
+*.md
+
+# Other files that we don't want to track
+create_notebook.py
+create_complete_notebook.py 
