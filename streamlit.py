@@ -1,5 +1,5 @@
 # Bank Marketing Prediction - Streamlit App
-# Author: [Your Name]
+# Author: Erdem Atak
 # Course: ADA 442 Statistical Learning | Classification
 
 import streamlit as st
